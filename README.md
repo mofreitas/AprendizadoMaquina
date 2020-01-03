@@ -3,10 +3,10 @@ Listas da disciplina de aprendizado de Máquina e Mineração de Dados do curso 
 
 Elas abordam:
 
-*Machine Learning
-*Deep Learning
-*SVM
-*PCA
-*KMeans
-*Clusterização hierarquica 
-*SOM
+* Machine Learning
+* Deep Learning
+* SVM
+* PCA
+* KMeans
+* Clusterização hierárquica 
+* SOM
